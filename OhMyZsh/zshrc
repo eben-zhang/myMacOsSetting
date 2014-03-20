@@ -40,10 +40,12 @@ ZSH_THEME="robbyrussell"
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
-plugins=(git)
+plugins=(git autojump npm node osx)
 
 source $ZSH/oh-my-zsh.sh
-
+# default encoding
+export LC_ALL=en_US.UTF-8  
+export LANG=en_US.UTF-8
 # Customize to your needs...
 export PATH=$PATH:/Users/ebenzhang/.nvm/v0.10.17/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin
 . ~/.nvm/nvm.sh
