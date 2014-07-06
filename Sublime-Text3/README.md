@@ -4,6 +4,15 @@
 
 点击这里查看 [sublime-settings](https://raw.githubusercontent.com/echorenyuan/myMacOsSetting/master/Sublime-Text3/Preferences.sublime-settings)
 
+### Theme
+
+>Devastatec
+
+Small window on OS X
+![devastate](https://camo.githubusercontent.com/33c8f5880a7bc8b97aea66e3c7ce5c2fbc7307fd/68747470733a2f2f7261772e6769746875622e636f6d2f766c616b617261646f732f6465766173746174652f6d61737465722f73637265656e73686f74732f736d616c6c2e6a7067)
+
+[了解更多>>](https://github.com/echorenyuan/devastate)
+
 ### Plug-in
 
 #### HTML-CSS-JS Prettify
@@ -17,15 +26,16 @@
 
 >快速的编写 HTML、CSS
 
+![Emmet](http://img1.appinn.com/2010/01/zen-coding.gif)
+
 #### Emmet plus
 
 >Emmet plus 让 Emmet 更强大
 
 ![Emmet plus](https://camo.githubusercontent.com/e46487ed506fc82b45b20420ca4e4b88067053fb/687474703a2f2f67746d7330312e616c6963646e2e636f6d2f7470732f69312f54316f4941774658746758586131424d6a762d3730372d3733352e676966)
 
-查看详细内容 [请点击这里](https://github.com/echorenyuan/emmet-plus)
+[了解更多>>](https://github.com/echorenyuan/emmet-plus)
 
-![Emmet](http://img1.appinn.com/2010/01/zen-coding.gif)
 
 #### Terminal
 
