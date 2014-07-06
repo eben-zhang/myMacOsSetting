@@ -1,0 +1,36 @@
+{
+  "close_windows_when_empty": false,
+  "color_scheme": "Packages/Devastate/Devastate.tmTheme",
+  "default_line_ending": "unix",
+  "draw_white_space": "all",
+  "file_exclude_patterns":
+  [
+    ".DS_Store"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".bin",
+    "CVS",
+    "_build",
+    "dist",
+    "build",
+    "site"
+  ],
+  "font_face": "Monaco",
+  "font_size": 16.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_to_bracket": true,
+  "scroll_past_end": true,
+  "tab_size": 2,
+  "theme": "Devastate.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true
+}
